@@ -7,7 +7,10 @@ URL: https://github.com/vthannir/c-_Repo_Team_04
 
 References:
 https://study.com/academy/lesson/how-to-design-a-database-schema.html 
+
 https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding
+
 https://youtu.be/P3zvdfxurGk
+
 https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/
 
